@@ -10,3 +10,7 @@ OECD Air and climate
 - Greenhous gas emissions
 - Air transport C02 emissions
 
+What:
+- Graphics
+- Find interesting patterns
+- Country emissions per capita
