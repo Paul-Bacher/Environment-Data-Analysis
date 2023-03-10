@@ -14,3 +14,8 @@ What:
 - Graphics
 - Find interesting patterns
 - Country emissions per capita
+
+
+Air emission accounts:
+- Clean data
+- Find patterns
