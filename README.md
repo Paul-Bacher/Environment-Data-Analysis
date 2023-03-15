@@ -18,4 +18,3 @@ What:
 
 Air emission accounts:
 - Clean data
-- Find patterns
